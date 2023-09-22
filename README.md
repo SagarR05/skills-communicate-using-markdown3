@@ -1,4 +1,4 @@
-<header>
+# This is h1 header
 
 <!--
   <<< Author notes: Course header >>>
@@ -11,7 +11,7 @@
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-</header>
+## This is h2 header
 
 <!--
   <<< Author notes: Step 1 >>>
